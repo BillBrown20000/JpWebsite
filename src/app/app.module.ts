@@ -19,18 +19,12 @@ import { ButtonTempleteComponent } from './button-templete/button-templete.compo
     LogoComponent,
     LogoTemplateComponent,
     FooterComponent,
-<<<<<<< HEAD
     NavbarHeaderTopComponent,
     NavbarTempleteComponent,
-    ButtonTempleteComponent
-  ],
-=======
+    ButtonTempleteComponent,
      GradsComponentComponent,
-    GradsRoutingComponentComponent,
-      NavbarHeaderTopComponent,
-    NavbarTempleteComponent,
+    GradsRoutingComponentComponent
    ],
->>>>>>> 9bb62fa785e30e44007289f82207bafbe316a92b
   imports: [
     BrowserModule,
     AppRoutingModule,
