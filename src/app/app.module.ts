@@ -10,15 +10,20 @@ import { LogoTemplateComponent } from './logo-template/logo-template.component';
 import { FooterComponent } from './footer/footer.component';
 import { GradsComponentComponent } from './grads-component/grads-component.component';
 import { GradsRoutingComponentComponent } from './grads-routing-component/grads-routing-component.component';
-
+import { NavbarHeaderTopComponent } from './navbar-header-top/navbar-header-top.component';
+import { NavbarTempleteComponent } from './navbar-templete/navbar-templete.component';
+import { ButtonTempleteComponent } from './button-templete/button-templete.component';
 @NgModule({
   declarations: [
     AppComponent,
     LogoComponent,
     LogoTemplateComponent,
     FooterComponent,
+    NavbarHeaderTopComponent,
+    NavbarTempleteComponent,
+    ButtonTempleteComponent,
      GradsComponentComponent,
-    GradsRoutingComponentComponent,
+    GradsRoutingComponentComponent
    ],
   imports: [
     BrowserModule,
