@@ -1,0 +1,9 @@
+a::after  { 
+    content: "\003e";
+    color: forestgreen;
+}
+
+a {
+    color: forestgreen;
+}
+
