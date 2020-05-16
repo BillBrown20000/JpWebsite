@@ -13,6 +13,7 @@ import { GradsRoutingComponentComponent } from './grads-routing-component/grads-
 import { NavbarHeaderTopComponent } from './navbar-header-top/navbar-header-top.component';
 import { NavbarTempleteComponent } from './navbar-templete/navbar-templete.component';
 import { ButtonTempleteComponent } from './button-templete/button-templete.component';
+import { ContactButtonComponent } from './contact-button/contact-button.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -23,7 +24,8 @@ import { ButtonTempleteComponent } from './button-templete/button-templete.compo
     NavbarTempleteComponent,
     ButtonTempleteComponent,
      GradsComponentComponent,
-    GradsRoutingComponentComponent
+    GradsRoutingComponentComponent,
+    ContactButtonComponent
    ],
   imports: [
     BrowserModule,
