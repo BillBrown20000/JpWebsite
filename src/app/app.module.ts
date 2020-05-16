@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { LogoComponent } from './logo/logo.component';
 import { LogoTemplateComponent } from './logo-template/logo-template.component';
 import { FooterComponent } from './footer/footer.component';
+import { GrayHeaderComponent } from './gray-header/gray-header.component';
 
 @NgModule({
   declarations: [
@@ -14,6 +15,7 @@ import { FooterComponent } from './footer/footer.component';
     LogoComponent,
     LogoTemplateComponent,
     FooterComponent,
+    GrayHeaderComponent,
   ],
   imports: [
     BrowserModule,
