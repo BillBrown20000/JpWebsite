@@ -9,6 +9,7 @@ import { LogoTemplateComponent } from './logo-template/logo-template.component';
 import { FooterComponent } from './footer/footer.component';
 import { NavbarHeaderTopComponent } from './navbar-header-top/navbar-header-top.component';
 import { NavbarTempleteComponent } from './navbar-templete/navbar-templete.component';
+import { ButtonTempleteComponent } from './button-templete/button-templete.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -16,7 +17,8 @@ import { NavbarTempleteComponent } from './navbar-templete/navbar-templete.compo
     LogoTemplateComponent,
     FooterComponent,
     NavbarHeaderTopComponent,
-    NavbarTempleteComponent
+    NavbarTempleteComponent,
+    ButtonTempleteComponent
   ],
   imports: [
     BrowserModule,
