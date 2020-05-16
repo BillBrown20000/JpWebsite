@@ -1,0 +1,31 @@
+.card{
+    min-height: 25rem;
+    width: 25rem;
+    border-color: grey;
+    
+}
+.card-body{
+    background-color: white;
+}
+h1{
+    font-size: x-large;
+}
+h2{
+    font-size: xx-large;
+}
+h3{
+    font-size: large;
+}
+h4{
+    font-size: larger;
+    text-align: center;
+}
+h5{
+    font-size: large;
+    text-align: center;
+}
+p{
+    font-size: large;
+}
+
+
